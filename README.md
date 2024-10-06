@@ -11,8 +11,8 @@ This project is a sentiment analysis application that uses the DistilBERT model 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis.git
-   cd sentiment-analysis
+   git clone https://github.com/omarsalaheldiin/BERT_Sentiment_Analysis
+   cd BERT_Sentiment_Analysis
    ```
 
 2. **Install the required packages**:
